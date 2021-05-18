@@ -1,7 +1,13 @@
 import React from 'react';
+import Navbar from '../Navbar/Navbar';
+import { HeroContainer } from './HeroElements';
 
 const Hero = () => {
-  return <div></div>;
+  return (
+    <HeroContainer>
+      <Navbar />
+    </HeroContainer>
+  );
 };
 
 export default Hero;
