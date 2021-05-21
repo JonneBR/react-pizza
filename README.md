@@ -5,5 +5,5 @@
 <img width="650" height="360" src="src/prints/print-2.jpg">
 <img width="650" height="260" src="src/prints/print-3.jpg">
 <img width="650" height="360" src="src/prints/print-4.jpg">
-<img width="650" height="60" src="src/prints/print-5.jpg">
+<img width="650" height="40" src="src/prints/print-5.jpg">
 </p>
